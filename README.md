@@ -1,9 +1,9 @@
-Photography Website UI 📸
+ # Photography Website UI 📸
 
 A modern Photography Portfolio Webpage UI built using HTML and CSS.
 This project demonstrates a clean sidebar navigation layout with a full-screen hero image background, ideal for photography portfolios or creative websites.
 
-🚀 Features
+## 🚀 Features
 
 Responsive sidebar navigation menu
 
@@ -17,7 +17,7 @@ Smooth layout using pure HTML and CSS
 
 Minimal and lightweight design
 
-🖼️ Preview
+## 🖼️ Preview
 
 The webpage includes:
 
@@ -41,7 +41,7 @@ Hero section with a professional camera photography background
 
 Social media icons at the bottom of the sidebar
 
-🛠️ Built With
+## 🛠️ Built With
 
 HTML5
 
