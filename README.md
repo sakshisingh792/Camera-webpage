@@ -50,3 +50,7 @@ CSS3
 Flexbox for layout
 
 Responsive UI concepts
+
+
+
+### Built as a Frontend practice project using HTML and CSS.
